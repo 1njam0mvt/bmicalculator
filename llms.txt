@@ -1,0 +1,25 @@
+# BMI Calculator
+> Free online BMI calculator for men, women and children. Enter height and weight in kg/cm or lb/ft to get BMI, healthy weight range, BMI Prime, Ponderal Index and the WHO adult or CDC child category. Available in 8 languages.
+
+Reviewed 21 November 2026. Medical information is general, not advice.
+
+## Pages
+- [BMI Calculator: Free Online BMI for Men, Women & Kids](https://example.com/): en version
+- [Calculadora de IMC gratis: hombres, mujeres y niños](https://example.com/es/): es version
+- [BMI计算器：免费在线体质指数（男性、女性、儿童）](https://example.com/zh/): zh version
+- [BMI कैलकुलेटर: पुरुष, महिला और बच्चों के लिए मुफ़्त ऑनलाइन](https://example.com/hi/): hi version
+- [حاسبة مؤشر كتلة الجسم BMI مجانًا للرجال والنساء والأطفال](https://example.com/ar/): ar version
+- [Calculadora de IMC grátis: homens, mulheres e crianças](https://example.com/pt/): pt version
+- [Calculateur d'IMC gratuit : hommes, femmes et enfants](https://example.com/fr/): fr version
+- [BMI-Rechner kostenlos: Männer, Frauen und Kinder](https://example.com/de/): de version
+
+## Key facts
+- Formula (metric): BMI = weight (kg) / height (m)^2. US units: 703 x pounds / inches^2.
+- WHO adult classes: under 16 severe thinness, 16-17 moderate, 17-18.5 mild, 18.5-25 normal, 25-30 overweight, 30-35 obese I, 35-40 obese II, over 40 obese III.
+- Healthy weight range for a height: 18.5 to 25 times height in metres squared.
+- Ages 2-20: CDC BMI-for-age percentiles (under 5% underweight, 5-85% healthy, 85-95% at risk of overweight, over 95% overweight).
+- Many Asian guidelines use overweight from 23 and obese from 25.
+
+## Sources
+- [WHO: Body mass index](https://www.who.int/data/gho/data/themes/topics/topic-details/GHO/body-mass-index)
+- [CDC: BMI](https://www.cdc.gov/bmi/)
